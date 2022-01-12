@@ -21,7 +21,7 @@
 
 
 ## 웹페이지 결과물
-* URL : https://wvssm.github.io/myweb.github.io/
+* URL : https://wvssm.github.io/2-1_myFirstWeb/
 
 
 ## 참고 강의 
