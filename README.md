@@ -28,4 +28,4 @@
 * 노마드코더 : https://nomadcoders.co/
 
 ## 이미지
-![웹페이지 이미지]()
+![웹페이지 이미지](https://github.com/wvssm/2-1_myFirstWeb/blob/c3ed488f5cb101e6fd0cc20a0635b246fc4f87c8/webpage.png)
