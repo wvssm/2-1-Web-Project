@@ -21,7 +21,7 @@
 
 
 ## 웹페이지 결과물
-* URL : https://wvssm.github.io/2-1_myFirstWeb/index.HTML
+* URL : [https://wvssm.github.io/2-1_myFirstWeb/index.HTML](https://wvssm.github.io/2-1-Web-Project/)
 
 
 ## 참고 강의 
